@@ -51,7 +51,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://elearning-smplabsky.labschool-unj.sch.id/my/',
     },
     {
       id: '4',
