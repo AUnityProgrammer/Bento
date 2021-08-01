@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Todoist',
-      icon: 'trello',
+      icon: 'book-open',
       link: 'https://elearning-smplabsky.labschool-unj.sch.id/my/',
     },
     {
@@ -79,7 +79,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  secondListIcon: 'message-square',
 
   // Links
   lists: {
@@ -103,12 +103,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Discord',
+        link: 'https://discord.com/',
       },
       {
         name: 'Dribbble',
